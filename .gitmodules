@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/hady-awayda/backend-code-editor.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/hady-awayda/frontend-code-editor.git
